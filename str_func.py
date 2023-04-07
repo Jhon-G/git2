@@ -1,10 +1,11 @@
 def string_capitalize(string: str):
     """
+
     Make all char in string upper
 
     :param string:
     :return:
-    """
+
     return string.upper()
 
 
